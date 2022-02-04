@@ -26,8 +26,7 @@
   - Web3 applications or game related discussions.
 
 - 📫 How to reach me
-  Here or on LinkedIn: www.linkedin.com/in/jpvanloggerenberg
-
+  Here or on jploggies@gmail.com
 <!---
 cardeverre/cardeverre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
