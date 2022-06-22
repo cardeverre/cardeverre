@@ -24,9 +24,7 @@
 - 💞️ I’m looking to collaborate on
   - Any open-source framework that can add value to software quality and effeciency. 
   - Web3 applications or game related discussions.
-
-- 📫 How to reach me
-  Here or on jploggies@gmail.com
+ 
 <!---
 cardeverre/cardeverre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
