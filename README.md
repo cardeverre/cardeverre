@@ -1,4 +1,5 @@
- <h1 align="center">Hi 👋, I'm JP van Loggerenberg</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cardeverre&label=Profile%20views&color=0e75b6&style=flat" alt="cardeverre" /> </p>
+<h1 align="center">Hi 👋, I'm JP van Loggerenberg</h1>
 <h3 align="center">Im a versatile software designer and engineer with experience across a diverse range of stacks and industries. Dive in or reach out to discover more about my work and projects!</h3>
 
 ## 🏆 GitHub Trophies
@@ -69,7 +70,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardeverre&theme=dark" alt="cardeverre" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cardeverre&label=Profile%20views&color=0e75b6&style=flat" alt="cardeverre" /> </p>
+
 
 <!---
 cardeverre/cardeverre is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
