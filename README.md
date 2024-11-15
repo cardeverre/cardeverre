@@ -4,41 +4,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cardeverre&theme=discord&no-frame=false&no-bg=true&margin-w=4)
- 
-## ⚡ Interests and Activities
-
-| 👀 |   |
-|:---:|:------|
-| 📌 | Enterprise System Design |
-| 📌 | Software Systems Architecture |
-| 📌 | Full-stack software design and engineering |
-| 📌 | Mobile Android (Kotlin, Java) & iOS (Objective C, Swift) |
-| 📌 | Microservices |
-| 📌 | Web3 and Blockchain Design and Development |
-| 📌 | Web3 Tokenomics and smart contracts |
-| 📌 | SSI Identity Solutions |
-| 📌 | 2D and 3D Game Development |
-| 📌 | Game design, theory, and Mechanics |
-| 📌 | Hackathon and Gamejams |
-| 📌 | Any open-source framework that can add value to software quality and efficiency |
-
----
-
-## 📖 Currently Learning
-
-| 🌱 |   |
-|:---:|:------|
-| 📘 | Something new every day to get me one step closer to my goals and continuous self-improvement |
-
----
-
-## 🤝 Collaboration Opportunities
-
-| 👯 |   |
-|:---:|:------|
-| 🤝 | Any open-source framework that can add value to software quality and efficiency |
-| 🤝 | Web3, Defi, SSI DApps, or game-related projects |
-
   
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/438362122028711946) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jploggies01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpvanloggerenberg) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@asd](https://medium.com/@jpvanloggerenberg)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jploggies) 
