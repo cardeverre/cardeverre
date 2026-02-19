@@ -24,12 +24,6 @@
 
  
 
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cardeverre&show_icons=true&locale=en&theme=dark&layout=compact" alt="cardeverre" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cardeverre&show_icons=true&theme=dark&locale=en" alt="cardeverre" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cardeverre&theme=dark" alt="cardeverre" /></p>
 
 
