@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm JP van Loggerenberg</h1>
 <h3 align="center">Im a versatile software designer and engineer with experience across a diverse range of stacks and industries. Dive in or reach out to discover more about my work and projects!</h3>
   
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/438362122028711946) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jploggies01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jpvanloggerenberg) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@asd](https://medium.com/@jpvanloggerenberg)) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jploggies) 
  
 # 💻 Tech Stacks  
 
